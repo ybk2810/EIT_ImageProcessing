@@ -1,0 +1,10 @@
+HOMEDIR = pwd;
+addpath( HOMEDIR );
+addpath([HOMEDIR, '/ADF']);
+addpath([HOMEDIR, '/EIT']);
+addpath([HOMEDIR, '/EIT/EIT_package_imlkh']);
+addpath([HOMEDIR, '/EIT/Mesh2d_v24']);
+addpath([HOMEDIR, '/Filt']);
+addpath([HOMEDIR, '/ICA']);
+addpath([HOMEDIR, '/IMAGE']);
+addpath([HOMEDIR, '/Drager']);
